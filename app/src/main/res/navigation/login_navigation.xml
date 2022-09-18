@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/login_navigation"
+    app:startDestination="@+id/nav_login">
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.karasu.yome.ui.login.LoginFragment"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_nav_login_to_nav_add_user"
+            app:destination="@id/nav_add_user" />
+        <action
+            android:id="@+id/action_nav_login_to_nav_server"
+            app:destination="@id/nav_server" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_add_user"
+        android:name="com.karasu.yome.ui.login.AddUserFragment"
+        tools:layout="@layout/fragment_connection_add_user" >
+        <action
+            android:id="@+id/action_nav_add_user_to_nav_login"
+            app:destination="@id/nav_login" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_server"
+        android:name="com.karasu.yome.ui.login.ServerFragment"
+        tools:layout="@layout/fragment_connection_server" >
+        <action
+            android:id="@+id/action_nav_server_to_nav_login2"
+            app:destination="@id/nav_login" />
+    </fragment>
+
+
+
+</navigation>

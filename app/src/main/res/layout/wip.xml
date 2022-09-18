@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--    <com.google.android.material.imageview.ShapeableImageView-->
+<!--        android:id="@+id/imvCircular6"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:src="@drawable/side_nav_bar"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_gravity="top|center"-->
+<!--        app:shapeAppearanceOverlay="@style/Circular" />-->
+
+<!--    <com.google.android.material.imageview.ShapeableImageView-->
+<!--        android:id="@+id/imvCircularWithStroke"-->
+<!--        android:layout_width="100dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:padding="5dp"-->
+<!--        android:src="@drawable/side_nav_bar"-->
+<!--        app:layout_constraintHorizontal_bias="0.5"-->
+<!--        app:layout_gravity="top|center"-->
+<!--        app:shapeAppearanceOverlay="@style/Circular"-->
+<!--        app:strokeColor="#00BCD4"-->
+<!--        app:strokeWidth="5dp" />-->
+
+<!--    <com.google.android.material.button.MaterialButton-->
+<!--        android:id="@+id/modify_server"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:elevation="2dp"-->
+<!--        android:onClick="onModifyServerButtonClicked"-->
+<!--        android:text="MODIFY SERVER"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintWidth_percent="0.7" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

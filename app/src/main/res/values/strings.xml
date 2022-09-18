@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Yome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">Subtitle</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_want_to_read">Want to read</string>
+    <string name="menu_collections">Collections</string>
+    <string name="menu_reading_lists">Reading lists</string>
+    <string name="menu_bookmarks">Bookmarks</string>
+    <string name="menu_all_series">All series</string>
+
+    <string name="add_user">Add user</string>
+    <string name="who_wants_to_read">Who wants to read ?</string>
+    <string name="set_server_address">Set server\'s address</string>
+    <string name="saved_server_address">server_address</string>
+</resources>
