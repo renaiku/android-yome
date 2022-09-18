@@ -1,6 +1,6 @@
 # android-yome
 
-This app is an android native reader for [https://www.kavitareader.com/](Kavita)
+This app is an android native reader for [Kavita](https://www.kavitareader.com/)
 
 <img src="screenshot.png" width="200">
 
@@ -14,4 +14,4 @@ This has been developped with Android Studio and uses different technologies lik
 -----
 
 The name of the app is japanese and means "Read!".
-It's also a book from [https://fr.wikipedia.org/wiki/Masatoshi_Hamada](Hamada) who is one of my favourite japanese comedian.
+It's also a book from [Hamada](https://fr.wikipedia.org/wiki/Masatoshi_Hamada) who is one of my favourite japanese comedian.
