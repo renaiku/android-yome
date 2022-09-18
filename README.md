@@ -2,7 +2,7 @@
 
 This app is an android native reader for [https://www.kavitareader.com/](Kavita)
 
-![](screenshot.png)
+![](screenshot.png | width=100)
 
 -----
 
