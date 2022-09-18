@@ -2,6 +2,8 @@
 
 This app is an android native reader for [https://www.kavitareader.com/](Kavita)
 
+![](screenshot.png)
+
 -----
 
 This project is very open to pull request. Please fork this project and open pull requests.
